@@ -1,0 +1,9 @@
+div {
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+    border: 20px groove green;
+    background: aqua url("img/nature-image.jpeg");
+    background-size: cover;
+    bakground-repeat: no-repeat;
+}
